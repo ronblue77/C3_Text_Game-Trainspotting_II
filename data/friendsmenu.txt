@@ -1,0 +1,9 @@
+	Who do you want to hang out with?
+
+1. Mary - Your ex-girlfriend
+2. Joe - Your old dealer
+3. Felix - Your childhood friend
+4. Visit your old school
+5. Visit your family
+
+Choose wisely...
